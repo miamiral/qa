@@ -35,3 +35,5 @@
 [Madgugo - Find the square of a number](https://github.com/BonStudent/Magdugo_QA.git)
 
 [Calumba - Find the difference of two numbers](https://github.com/CCharlen3/unitTest.git)
+
+[Mira;- Find the Sum of two numbers] (https://github.com/miamiral/qa_activity.git)
